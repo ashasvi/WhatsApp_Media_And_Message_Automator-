@@ -1,9 +1,5 @@
 # Whatsapp_Message-Media_Automator
 
-**Reference Video: https://drive.google.com/file/d/1KU1E669yDdeuS85xwAeIWWnqLywaM9qK/view?usp=sharing
- 
-# WhatsApp Automation with Selenium and Python
-
 Automate sending scheduled messages and attachments to WhatsApp groups using Selenium and Python. This project includes scripts for sending text messages, attachments, and both combined, based on predefined schedules. Easily customizable and equipped with optimal delay settings to minimize the risk of WhatsApp bans.
 
 ## Features
@@ -116,7 +112,7 @@ Automate sending scheduled messages and attachments to WhatsApp groups using Sel
 - **Security:** Be cautious with storing sensitive data like cookies. Ensure they are stored securely and are not exposed to unauthorized users.
 
 ## References
-- Follow th Whatsapp Automatio Report and Watsapp automation.mp3 for a detailed look into how the code work and run.
+- Follow the WhatsApp msg and media Automatior Report for a detailed look into how the code work and run.
 
 
 
